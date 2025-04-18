@@ -1,0 +1,26 @@
+[
+  {
+    "link": "http://demo.f4map.com",
+    "description": "3D interactive world map"
+  },
+  {
+    "link": "https://www.oldmapsonline.org/",
+    "description": "World aggregator of old maps from various sources (498,908 maps)"
+  },
+  {
+    "link": "http://whatiswhere.com",
+    "description": "OpenStreetMap based free POI (point of interest) search. 102 types of objects"
+  },
+  {
+    "link": "https://cipher387.github.io/collection_of_cadastral_maps/",
+    "description": "41 countries"
+  },
+  {
+    "link": "https://simon04.dev.openstreetmap.org/whodidit/",
+    "description": "Click on an area on the OpenStreetMap to get a list of nicknames of users who have made changes on it (with dates)."
+  },
+  {
+    "link": "https://ukdataexplorer.com/european-translator/",
+    "description": "Enter the word in English to see its translation into different European languages on the map."
+  }
+]

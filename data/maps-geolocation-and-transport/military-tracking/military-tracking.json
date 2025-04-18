@@ -1,0 +1,50 @@
+[
+  {
+    "link": "https://www.ads-b.nl",
+    "description": "tracking military aircrafts."
+  },
+  {
+    "link": "https://planefinder.net/flight/ARMY",
+    "description": "Planefinder Army Live Flight Tracker"
+  },
+  {
+    "link": "https://www.itamilradar.com",
+    "description": "track military flights over Italy and over the Mediterranean Sea."
+  },
+  {
+    "link": "https://www.marinevesseltraffic.com/2013/02/military-ship-track.html",
+    "description": "military ship tracking."
+  },
+  {
+    "link": "https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker#lon=49.9507;lat=26.6056;zoom=4;",
+    "description": "BellingCat Radar Interfence Tracker"
+  },
+  {
+    "link": "http://websdr.ewi.utwente.nl:8901",
+    "description": "online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code)."
+  },
+  {
+    "link": "https://www.info-res.org/map",
+    "description": "represent open source material such as videos, photos and imagery that have been cross-referenced with satellite imagery to determine precise locations of military activity ."
+  },
+  {
+    "link": "https://liveuamap.com/ru",
+    "description": "online tracking of war-related events in Ukraine."
+  },
+  {
+    "link": "https://syria.liveuamap.com",
+    "description": "online tracking of war-related events in Syria."
+  },
+  {
+    "link": "https://www.nato.int/nato-on-the-map/#lat=54.6871555&lon=25.2796514&zoom=2&layer-1",
+    "description": "Explore this interactive map to learn more about NATO, how the Alliance works and how it responds to today's security challenges."
+  },
+  {
+    "link": "https://www.understandingwar.org/map-room",
+    "description": "collection of maps illustrating military conflicts in different countries."
+  },
+  {
+    "link": "https://worldbeyondwar.org/no-bases/",
+    "description": "Use the map to find out the number of people at the base, the approximate area, the opening date, and to get links to articles with more information."
+  }
+]

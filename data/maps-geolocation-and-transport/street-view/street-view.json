@@ -1,0 +1,18 @@
+[
+  {
+    "link": "http://showmystreet.com",
+    "description": "simple tool that simplifies and speeds up your research work with Google Street View. Just click on the map and see street panoramas"
+  },
+  {
+    "link": "https://www.mapillary.com/app/",
+    "description": "street panoramas over the world"
+  },
+  {
+    "link": "https://360cities.net/map",
+    "description": "world map of panoramic (360 degrees) images"
+  },
+  {
+    "link": "http://earthviewer360.com",
+    "description": "Click on a point on the map to see a 360 degree video panorama (it's possiblle to pause to see some areas in more detail)"
+  }
+]

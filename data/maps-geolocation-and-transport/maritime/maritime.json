@@ -1,0 +1,38 @@
+[
+  {
+    "link": "https://www.track-trace.com/container",
+    "description": "tracking a shipping container by number"
+  },
+  {
+    "link": "http://container-tracking.org/",
+    "description": "tracking a shipping container by number"
+  },
+  {
+    "link": "https://www.searates.com/container/tracking/",
+    "description": "tracking a shipping container by number"
+  },
+  {
+    "link": "https://www.cma-cgm.com/ebusiness/schedules/voyage",
+    "description": "search for voyage details by voyage number or ship name"
+  },
+  {
+    "link": "https://theshippingdatabase.com/",
+    "description": "comprehensive archive of the world ships. There is even data for 1820!!!!!!!"
+  },
+  {
+    "link": "https://www.submarinecablemap.com/",
+    "description": "submarine communications cables map"
+  },
+  {
+    "link": "https://www.marinevesseltraffic.com/submarine-vessels-tracking-map",
+    "description": "Submarine Vessels Tracking Map"
+  },
+  {
+    "link": "https://ports.com/sea-route/",
+    "description": "online calculation of travel time between two ports (with optimal path). It's possible to select the speed from 5 to 40 knots. Shows a list of the seas through which it passes."
+  },
+  {
+    "link": "https://www.livecruiseshiptracker.com/",
+    "description": "Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator"
+  }
+]

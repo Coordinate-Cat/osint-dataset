@@ -1,0 +1,34 @@
+[
+  {
+    "link": "https://juckins.net/amtrak_status/archive/html/history.php",
+    "description": "find out the train schedule for a station on a particular day that passed many years ago (since 2008)"
+  },
+  {
+    "link": "https://www.nsinternational.com/en/stations/station-maps-floor-plan",
+    "description": "Europe station maps floor plan"
+  },
+  {
+    "link": "https://rasp.yandex.ru/map/trains",
+    "description": "Live map of trains for Russia, Belarus, Ukraine, Kazahstan and Abhazia"
+  },
+  {
+    "link": "https://chronotrains-eu.vercel.app/",
+    "description": "A terrific weekend travel planning service for Europeans. It shows how far you can go from a certain station in 5 hours by train."
+  },
+  {
+    "link": "https://direkt.bahn.guru/",
+    "description": "Enter the name of the station to see what cities you can get to by train without changing (+ travel time for each city)."
+  },
+  {
+    "link": "https://mobility.portal.geops.io/world.geops.transit?baselayer=world.geops.travic&layers=paerke,strassennamen,haltekanten,haltestellen,pois,world.geops.traviclive&x=810000&y=5900000&z=5.5",
+    "description": "A world map showing real-time train traffic (with route point's exact geographic coordinates) and schedules on the roads of Europe, North and South America and Australia."
+  },
+  {
+    "link": "https://railcabrides.com/en/mapsearch",
+    "description": "Click on a point on the railway on the world map (railways are marked in orange or red) to see a list of rail cab videos from that location. With this service you can see many places where Google Street View has not yet reached!"
+  },
+  {
+    "link": "https://www.zugfinder.net/en/start",
+    "description": "Detailed information on trains, stations and real-time train traffic for European countries"
+  }
+]

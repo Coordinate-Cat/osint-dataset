@@ -1,0 +1,70 @@
+[
+  {
+    "link": "http://observer.farearth.com/observer/",
+    "description": "service allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording."
+  },
+  {
+    "link": "https://earthexplorer.usgs.gov/",
+    "description": "more than 40 years old collection of satellite imagery"
+  },
+  {
+    "link": "https://eos.com/products/landviewer/",
+    "description": "satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellite data to tackle real business issues"
+  },
+  {
+    "link": "https://scihub.copernicus.eu/",
+    "description": "ESA's open access portal to Sentinel data"
+  },
+  {
+    "link": "https://apps.sentinel-hub.com/eo-browser/",
+    "description": "complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA's archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place."
+  },
+  {
+    "link": "https://apps.sentinel-hub.com/sentinel-playground/",
+    "description": "tool for viewing satellite images with different effects and rendering."
+  },
+  {
+    "link": "https://search.earthdata.nasa.gov/",
+    "description": "search in 8555+ collection and photos."
+  },
+  {
+    "link": "http://www.dgi.inpe.br/catalogo/",
+    "description": "free satellite images catalogue."
+  },
+  {
+    "link": "https://coast.noaa.gov/dataviewer/#/",
+    "description": "satellite images of the coastal U.S.(discover, customize, and download authoritative land cover, imagery, and lidar data.)"
+  },
+  {
+    "link": "https://worldview.earthdata.nasa.gov/",
+    "description": "high resolution and high quality satellite images."
+  },
+  {
+    "link": "https://www.eorc.jaxa.jp/ALOS/jp/alos-4/a4_about_j.htm",
+    "description": "\"Advanced land Observer Satellite\" images collection (Japan)"
+  },
+  {
+    "link": "https://bhuvan.nrsc.gov.in/home/index.php",
+    "description": "Indian Geo-platfrom of ISRO."
+  },
+  {
+    "link": "https://map.openaerialmap.org/#/-90.098876953125,33.8430453147447,6?_k=huaxo6",
+    "description": "set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery"
+  },
+  {
+    "link": "https://map.openaerialmap.org/#/-18.632,18.47900000000001,3?_k=3za5b4",
+    "description": "Select an area on the map and get a list of freely available aerial images for that area. For some locations available images are many times superior in quality to conventional satellite images."
+  },
+  {
+    "link": "https://imagehunter.apollomapping.com/",
+    "description": "Select an area on the map using a special tool (square and polygon) and get a list of dozens of images obtained from satellites or by aerial photography (from the early 2000s as well as those taken a couple of days ago)."
+  },
+  {
+    "link": "https://keyhole.engelsjk.com/",
+    "description": "Experimental visualization tool for 1.3 million+ declassified spy satellite imagery (1960 to 1984 years)."
+  },
+  {
+    "link": "https://discover.maxar.com/",
+    "description": "Highlight an area on the world map and get dozens of satellite images of that area taken at different times (mostly 2021-2023)"
+  }
+]

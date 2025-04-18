@@ -1,0 +1,14 @@
+[
+  {
+    "link": "https://www.map.army/",
+    "description": "Online tool for creating schemes of battles and military operations on the map. Extensive customization possibilities and a huge library of symbols."
+  },
+  {
+    "link": "https://mgrs-mapper.com/",
+    "description": "Build and share custom maps with standard military graphics using a simple visual interface (paod)"
+  },
+  {
+    "link": "https://solutions.arcgis.com/defense/help/military-overlay/",
+    "description": "Military Overlay can be used to create overlays with standard military symbols, by using and adapting existing feature templates in **ArgGis Pro**"
+  }
+]

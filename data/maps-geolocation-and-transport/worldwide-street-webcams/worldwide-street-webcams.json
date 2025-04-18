@@ -1,0 +1,58 @@
+[
+  {
+    "link": "https://sunders.uber.space/",
+    "description": "World map of surveillance camera locations (mostly Europe and neighbor countries). For some cameras detailed information is given: geo coordinates, type, mount, timestamp etc"
+  },
+  {
+    "link": "http://www.insecam.org/",
+    "description": "Insecam"
+  },
+  {
+    "link": "https://www.earthcam.com/",
+    "description": "Earthcam"
+  },
+  {
+    "link": "https://camstreamer.com/live/map",
+    "description": "Camstreamer"
+  },
+  {
+    "link": "https://www.webcamtaxi.com/en/map.html",
+    "description": "Webcamtaxi"
+  },
+  {
+    "link": "https://www.skylinewebcams.com/webcam.html",
+    "description": "Skyline Webcams"
+  },
+  {
+    "link": "https://worldcam.eu/",
+    "description": "Worldcam.eu"
+  },
+  {
+    "link": "https://worldcams.tv/",
+    "description": "Worldcams TV"
+  },
+  {
+    "link": "https://www.geocam.ru/en/",
+    "description": "Geocam"
+  },
+  {
+    "link": "https://www.livebeaches.com/australia/",
+    "description": "Beaches webcam only"
+  },
+  {
+    "link": "http://www.opentopia.com/",
+    "description": "Opentopia"
+  },
+  {
+    "link": "https://www.mangolinkworld.com/",
+    "description": "MangolinkWorld"
+  },
+  {
+    "link": "https://www.foxmonitor.com/",
+    "description": "FoxMonitor"
+  },
+  {
+    "link": "https://cipher387.github.io/webcamcse/",
+    "description": "Google Custom Search Engine for search in 10 online street webcam catalogs"
+  }
+]

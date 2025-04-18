@@ -1,0 +1,58 @@
+[
+  {
+    "link": "https://opencellid.org/",
+    "description": "the world's largest Open Database of Cell Towers"
+  },
+  {
+    "link": "https://www.cellmapper.net/map?MCC=null&MNC=null&type=undefined&latitude=0&longitude=0&zoom=11&showTowers=true&showIcons=true&showTowerLabels=true&clusterEnabled=true&tilesEnabled=true&showOrphans=false&showNoFrequencyOnly=false&showFrequencyOnly=false&showBandwidthOnly=false&DateFilterType=None&showHex=false&showVerifiedOnly=false&showUnverifiedOnly=false&showLTECAOnly=false&showENDCOnly=false&showBand=0&showSectorColours=true&mapType=roadmap",
+    "description": "Worldwide cell towers map; Cell ID Calculator; Frequency Calculator; LTE Throughput Calculator; Network statistics by countries."
+  },
+  {
+    "link": "https://www.mylnikov.org/",
+    "description": "get lattitude and longitude by WiFI BBSID"
+  },
+  {
+    "link": "http://nperf.com/en/map",
+    "description": "view the coverage area of different #cellular operators in different countries"
+  },
+  {
+    "link": "https://www.nperf.com/en/map/5g",
+    "description": "5G coverage #map worldwide"
+  },
+  {
+    "link": "http://vincos.it/world-map-of-social-networks",
+    "description": "world social media popularity map"
+  },
+  {
+    "link": "https://app.any.run",
+    "description": "interactive worldwide map of cyber threats statistics (last 24 hour)"
+  },
+  {
+    "link": "https://www.webcamtaxi.com/en/russia/moscow-province/badoo-office.html",
+    "description": "open webcams around the world"
+  },
+  {
+    "link": "http://radio.garden/visit/moscow/MQfEnBji",
+    "description": "select a local radio station on the world map and listen to what's playing at the moment"
+  },
+  {
+    "link": "https://twitter.com/cyb_detective/status/1536682540265873408",
+    "description": "Worldwide online map of Tor Nodes"
+  },
+  {
+    "link": "https://github.com/GONZOsint/geowifi",
+    "description": "Search WiFi geolocation data by BSSID and SSID on different public databases (Wigle, Apple, OpenWifi, API Mylnikov)."
+  },
+  {
+    "link": "https://gpsjam.org/",
+    "description": "GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts)."
+  },
+  {
+    "link": "https://www.infrapedia.com/",
+    "description": "Worldwide detailed online map of Submarine Cables, Data Centers, Terrestrial Fibers, Internet Exchanges"
+  },
+  {
+    "link": "https://explorer.ooni.org/search",
+    "description": "World biggest open data resource on internet censorship around the world. 1.6+ million measurements in 241 countries since 2012."
+  }
+]

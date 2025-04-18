@@ -1,0 +1,38 @@
+[
+  {
+    "link": "https://skyvector.com/",
+    "description": "tool is designed for planning private flights. And you can find an incredible amount of data about the current situation in the sky on it"
+  },
+  {
+    "link": "https://www.flightconnections.com/",
+    "description": "click on the airport on the map to see the cities from which it's possible fly direct"
+  },
+  {
+    "link": "https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx",
+    "description": "World Aviation Accident Database 1962-2007"
+  },
+  {
+    "link": "https://data.ntsb.gov/carol-main-public/basic-search",
+    "description": "World Aviation Accident Database 2008-2021"
+  },
+  {
+    "link": "http://rzjets.net/aircraft/",
+    "description": "user updated online database (census) of civilian jet and turbojet aircraft"
+  },
+  {
+    "link": "https://globe.adsbexchange.com/",
+    "description": "tracking flights on a map"
+  },
+  {
+    "link": "https://transtats.bts.gov/ONTIME/",
+    "description": "flight schedules and data on the actual departure/arrival times of flights in the U.S. for more than 30 years (!))"
+  },
+  {
+    "link": "https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related",
+    "description": "An extension that displays the size of the legroom between the seats next to the flight information."
+  },
+  {
+    "link": "https://flight-status.info/",
+    "description": "- get a list of airports by city name; - view the flight schedule of a particular airport; - view the flight schedule of a particular airline; - getting detailed information about a flight and more"
+  }
+]

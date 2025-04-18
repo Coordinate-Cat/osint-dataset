@@ -1,0 +1,62 @@
+[
+  {
+    "link": "https://app.skylens.io/",
+    "description": "Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte)"
+  },
+  {
+    "link": "http://photo-map.ru/",
+    "description": "search geotagged photos from VK.com"
+  },
+  {
+    "link": "https://map.snapchat.com/",
+    "description": ""
+  },
+  {
+    "link": "https://mattw.io/youtube-geofind/",
+    "description": "view YouTube geottaged video on map"
+  },
+  {
+    "link": "https://www.flickr.com/map",
+    "description": ""
+  },
+  {
+    "link": "http://www.whatsthatpicture.com/flickr/commons-map.php",
+    "description": "displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location)"
+  },
+  {
+    "link": "https://iknowwhereyourcatlives.com/cat/99638e1fe0",
+    "description": "geottaged photo from Instagram with #cat hashtag"
+  },
+  {
+    "link": "https://www.trendsmap.com/map",
+    "description": "Explore most popular #Twitter trends, hashtags and users on the worldmap"
+  },
+  {
+    "link": "https://pastvu.com/",
+    "description": "View historical photos taken at a particular location on a map."
+  },
+  {
+    "link": "https://birdhunt.co/",
+    "description": "A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place."
+  },
+  {
+    "link": "https://wikishootme.toolforge.org/",
+    "description": "Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account."
+  },
+  {
+    "link": "https://hicsuntleones.nl/paintedplanet/",
+    "description": "Click on a point on the map to get a list of landscapes by famous artists depicting the area."
+  },
+  {
+    "link": "https://copernix.io/",
+    "description": "Worldwide map of geolocated Wikipedia articles. It's possible to enter the name of a locality to see articles about local streets or attractions."
+  },
+  {
+    "link": "https://wikinearby.toolforge.org/?lang=en&q=55.333056%2C+27.248889",
+    "description": "Enter geographic coordinates, language, and get a list of Wikipedia articles about streets, towns, stations and other notable places nearby."
+  },
+  {
+    "link": "https://www.huntintel.io/",
+    "description": "get a list of links to Facebook/Instagram locations linked to geographic coordinates"
+  }
+]

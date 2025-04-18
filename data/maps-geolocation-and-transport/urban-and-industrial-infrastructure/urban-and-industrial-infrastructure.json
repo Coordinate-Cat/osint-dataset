@@ -1,0 +1,62 @@
+[
+  {
+    "link": "https://wheelmap.org",
+    "description": "map shows public places that are accessible and partially accessible to #wheelchair users"
+  },
+  {
+    "link": "https://pedestriansfirst.itdp.org/",
+    "description": "Evaluate the pedestrian friendliness of streets in different cities. There is a lot of detailed data that will be useful both for choosing a place to live and for a variety of research"
+  },
+  {
+    "link": "https://luminocity3d.org/WorldPopDen/",
+    "description": "Very detailed data. It's possible to look at the density not only by country and city, but also by individual metropolitan areas, towns, and villages"
+  },
+  {
+    "link": "https://www.emporis.com/buildings/map",
+    "description": "world map showing notable buildings. For each object you can find out the height, number of floors, type, and purpose"
+  },
+  {
+    "link": "https://osmbuildings.org/",
+    "description": "world map showing notable buildings. For each object you can find out the height, type, and purpose."
+  },
+  {
+    "link": "https://findfoodsupport.withgoogle.com/",
+    "description": "find places where you can get free food by address (USA)"
+  },
+  {
+    "link": "https://aqicn.org/map/world/",
+    "description": "Air pollution gauges on the map"
+  },
+  {
+    "link": "https://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html",
+    "description": "Shows measurements of environmental radioactivity in the form of gamma dose rate for the last 24 hours. These measurements originate from some 5500 stations in 39 countries"
+  },
+  {
+    "link": "https://app.openindoor.io/#17/48.11915/-1.70188",
+    "description": "A world map where you can see how different buildings look from the inside (number of floors, location of stairways, rooms, doors, etc.). The database of the service is not very large yet, but the project is constantly being developed."
+  },
+  {
+    "link": "https://poweroutage.com/",
+    "description": "Map with real-time power outage statistics by country and region."
+  },
+  {
+    "link": "https://openbenches.org/",
+    "description": "Worldwide map of 22,756 memorial benches (added by users)."
+  },
+  {
+    "link": "https://sondehub.org/",
+    "description": "Worldwide map of radiosondes with detailed info (altitude, coordinates, frequency, manufacturer, sonde-type and much more)"
+  },
+  {
+    "link": "https://bikesharingworldmap.com/",
+    "description": "8 million+ bikes in one map. There is information about rental stations that have recently closed or suspended their activities."
+  },
+  {
+    "link": "https://www.rally-maps.com/map",
+    "description": "A worldwide map showing thousands of race (regular and one-off) locations. It's possinle to find names of winners, routes, dates and other detailed information (historical data from the 1970s is available)."
+  },
+  {
+    "link": "https://www.skydb.net/",
+    "description": "Worldwide database of skyscrapers and tall buildings."
+  }
+]

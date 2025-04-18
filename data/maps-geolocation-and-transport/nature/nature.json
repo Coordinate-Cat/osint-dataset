@@ -1,0 +1,122 @@
+[
+  {
+    "link": "https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4",
+    "description": "map for exploring some geologic maps and articles from the NGMDB (National Geologic Map Database)."
+  },
+  {
+    "link": "http://waqi.info",
+    "description": "World's Air Pollution: Real-time Air Quality Index map"
+  },
+  {
+    "link": "https://globalfishingwatch.org/map/",
+    "description": "click on a point on the map and get the data on the current fishing effort at that location."
+  },
+  {
+    "link": "https://www.ncei.noaa.gov/maps/hazards/",
+    "description": "Natural Hazards Viewer (worldwide)"
+  },
+  {
+    "link": "https://www.lightningmaps.org/",
+    "description": "lightning strikes in real time and also data on thunderstorms that ended months or years ago"
+  },
+  {
+    "link": "https://www.lightpollutionmap.info/",
+    "description": "showing the degree of light pollution in different countries. It's possible to see the data over time (since 2013)"
+  },
+  {
+    "link": "https://www2.cifor.org/global-wetlands/",
+    "description": "Interactive map of open waters, mangroves, swamps, fens, riverines, floodswamps, marshs, wet meadows and floodplains (unfortunately, there are not all countries in the world)"
+  },
+  {
+    "link": "https://firms.modaps.eosdis.nasa.gov/map/",
+    "description": "online map of fire hotspots around the world (data from VIIRS and MODIS satellites, last 24 hours)"
+  },
+  {
+    "link": "https://www.ocearch.org/tracker/",
+    "description": "Click on a shark on the world map and find out its name, size and travel log."
+  },
+  {
+    "link": "https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide",
+    "description": "Map of points where there is a risk of significant sea level rise in the event of melting glaciers."
+  },
+  {
+    "link": "https://usa.fishermap.org/depth-map/",
+    "description": "when you click on a freshwater body of water, its detailed map opens, on which the depth at different points is marked"
+  },
+  {
+    "link": "https://www.mindat.org/countrylist.php",
+    "description": "mineral maps for different countries"
+  },
+  {
+    "link": "https://www.ventusky.com/",
+    "description": "collection of weather map (wind, rain, temperature, air pressure, humidity, waves etc)"
+  },
+  {
+    "link": "https://www.wunderground.com/history",
+    "description": "weather history data"
+  },
+  {
+    "link": "http://rain-alarm.com",
+    "description": "shows where it is raining on the map. You can enable notification of approaching rain (in the browser and in the mobile app)"
+  },
+  {
+    "link": "https://cyclocane.com",
+    "description": "click on the hurricane on the map and get detailed information about it"
+  },
+  {
+    "link": "https://www.meteoblue.com/",
+    "description": "Weather stats data"
+  },
+  {
+    "link": "https://zoom.earth/",
+    "description": "Worldwide map of rains, storms, fires, heats, winds and others natural phenomenas"
+  },
+  {
+    "link": "https://maps.ngdc.noaa.gov/viewers/bathymetry/",
+    "description": "worldwide detailed interactive bathymetry map"
+  },
+  {
+    "link": "https://soar.earth/",
+    "description": "big collection satellite, drone and ecological maps"
+  },
+  {
+    "link": "https://academo.org/demos/geodesics/",
+    "description": "finding the shortest path between two points"
+  },
+  {
+    "link": "https://www.google.com/earth/",
+    "description": "3D representation of Earth based primarily on satellite imagery"
+  },
+  {
+    "link": "http://everymountainintheworld.com/",
+    "description": "Map of the world showing the mountains (with absolute and relative altitude and links to Peakbagger, Listsofjohn and Caltopo)."
+  },
+  {
+    "link": "https://rivermap.org/map/#sprache=en",
+    "description": "Online map with the most detailed information on Europe's rivers (mostly central for the time being, but the data is being updated): direction and speed, water temperature, depth, slope angle, etc."
+  },
+  {
+    "link": "https://www.gbif.org/occurrence/map?q=cobra",
+    "description": "Enter the name of an animal, bird or plant to see a map of where it has been spotted."
+  },
+  {
+    "link": "https://www.fmglobal.com/research-and-resources/nathaz-toolkit/flood-map",
+    "description": "Enter location and assess the risk of flooding, earthquakes and hail in this place on the map."
+  },
+  {
+    "link": "https://river-runner-global.samlearner.com/",
+    "description": "Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans."
+  },
+  {
+    "link": "https://macrostrat.org/",
+    "description": "Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database (c)."
+  },
+  {
+    "link": "http://global-flood-database.cloudtostreet.ai/",
+    "description": "Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc."
+  },
+  {
+    "link": "https://www.gaisma.com/en/",
+    "description": "A site for those who verify the location of a photo by the position of the sun. It is very much inferior in functionality to http://timeanddate.com, but its interface is much simpler."
+  }
+]

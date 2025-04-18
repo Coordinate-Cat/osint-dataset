@@ -1,0 +1,18 @@
+[
+  {
+    "link": "https://ridewithgps.com/users",
+    "description": ""
+  },
+  {
+    "link": "http://www.wandermap.net/en/#/z15/55.7522011,37.6156006/terrain",
+    "description": "hiking routes world map"
+  },
+  {
+    "link": "http://www.runmap.net/en/?tab=new#/z15/55.7522011,37.6156006/terrain",
+    "description": "running routes world map"
+  },
+  {
+    "link": "https://www.bikemap.net/",
+    "description": "biking route world map"
+  }
+]
